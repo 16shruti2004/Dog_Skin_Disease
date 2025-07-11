@@ -76,10 +76,10 @@ streamlit run dog_skin_clinic.py
 
 Streamlit will show a local link (like http://localhost:8501). Click and test it!
 
-📝 Disclaimer
+## 📝 Disclaimer
 This tool is intended for informational purposes only. It is not a substitute for professional veterinary care. Always consult a licensed vet for diagnosis and treatment.
 
-💡 Future Improvements
+## 💡 Future Improvements
 Add more disease classes with larger dataset
 
 Improve model accuracy with real veterinary data
@@ -88,9 +88,18 @@ Deploy online for public use (Streamlit Cloud, Heroku, etc.)
 
 Build a mobile app version for easy use by pet owners
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 Built with ❤️ by Shruti Kumari Hela
 Guidance: Ms. Arpita Roy — NSTIW Kolkata
+
+## 🐕✨ Helping pet owners stay informed — one wag at a time!
+
+
+---
+
+**✅ Just copy this into a `README.md` and push it to your GitHub!**  
+If you want, I can also write you a short `LICENSE` or `.gitignore` — just say *yes*!
+
 
 
 
