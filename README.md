@@ -43,4 +43,54 @@ Dogs often suffer from skin conditions like allergic dermatitis, fungal infectio
 ---
 
 ## 📂 Project Structure
+📦 Pawsitive-Care/
+├── dog_skin_clinic.py # Main Streamlit app
+├── README.md # Project README
+├── requirements.txt # Python dependencies (optional)
+
+
+---
+
+## ⚙️ How to Run
+
+1. **Clone this repository**
+
+   ```bash
+   git clone https://github.com/your-username/pawsitive-care.git
+   cd pawsitive-care
+2. Install dependencies
+
+bash
+Copy
+Edit
+pip install streamlit torch torchvision pillow
+
+3. Run the app
+
+bash
+Copy
+Edit
+streamlit run dog_skin_clinic.py
+
+4. Open in your browser
+
+Streamlit will show a local link (like http://localhost:8501). Click and test it!
+
+📝 Disclaimer
+This tool is intended for informational purposes only. It is not a substitute for professional veterinary care. Always consult a licensed vet for diagnosis and treatment.
+
+💡 Future Improvements
+Add more disease classes with larger dataset
+
+Improve model accuracy with real veterinary data
+
+Deploy online for public use (Streamlit Cloud, Heroku, etc.)
+
+Build a mobile app version for easy use by pet owners
+
+🙏 Acknowledgements
+Built with ❤️ by Shruti Kumari Hela
+Guidance: Ms. Arpita Roy — NSTIW Kolkata
+
+
 
