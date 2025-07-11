@@ -90,7 +90,7 @@ Build a mobile app version for easy use by pet owners
 
 ## 🙏 Acknowledgements
 Built with ❤️ by Shruti Kumari Hela
-Guidance: Ms. Arpita Roy — NSTIW Kolkata
+<br><br>
 
 ## 🐕✨ Helping pet owners stay informed — one wag at a time!
 
